@@ -1,3 +1,35 @@
+                                                                       ---Projeto Galeria---
+                                                                       
+                                                                       
+               Projeto feito em react que ultiliza banco de dados em firebase para armazenar arquivosde imagens tudo com banco dados em nuvem.
+               
+               
+               
+               Imagens:
+               
+               
+![galeria](https://user-images.githubusercontent.com/87943203/173751959-59397f12-6dd4-45bf-89ae-6c3f7f28f940.PNG)
+
+
+
+
+![galeria-2](https://user-images.githubusercontent.com/87943203/173751968-1d4f7058-6163-4134-810f-30c3470f525c.PNG)
+
+
+
+
+
+
+![galeria-3](https://user-images.githubusercontent.com/87943203/173751983-a2170bad-5dff-45bc-b922-3782bf5b91f6.PNG)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
